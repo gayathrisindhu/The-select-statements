@@ -1,1 +1,1 @@
-
+select * from emp where rollno = 23;
